@@ -2271,3 +2271,8 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+    #intp-fact {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      color: #6c3483; /* Purple color */
+    }
