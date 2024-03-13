@@ -1,7 +1,7 @@
 const intpFacts = [
   "😂 Fun Fact: I once got so absorbed reading about theoretical physics that I forgot to eat for an entire day.",
   "😂 Fun Fact: My friends have to do a system reboot when I start rambling about my latest overthinking escapades.",  
-  "☺️:One Truth: I love Anusha and I have been in love with her since B.Tech"
+  "☺️:One Truth: I love Anusha and I have been in love with her since B.Tech",
   "😂 Fun Fact: I'm the person who will take a simple question like \"What's your favorite color\?\" and give a 30-minute dissertation on the history and physics of color theory.",  
   "😂 Fun Fact: I have an entire notebook filled with ideas for perpetual motion machines, none of which would actually work in the real world.",  
   "😂 Fun Fact: I sometimes confuse my family by laughing out loud...at the weird theoretical puns happening inside my head.",  
